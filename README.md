@@ -1,5 +1,5 @@
 # CI/CD Cloud Composer
-Repo contains sample code for deploying DAGs to Google Cloud Composer, dockerfile, and DAG validation. Details about the CI/CD process can found in this article: https://www.springml.com/blog/developing-continuous-integration-for-google-cloud-composer/
+Repo contains sample code for deploying DAGs to Google Cloud Composer, dockerfile, and DAG validation. Details about the CI/CD process can found in this article: https://medium.com/p/f469a09c9db8
 
 
 ## Deploy Script
